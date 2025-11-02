@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Elite Companions</string>
+    <string name="title_activity_main">Elite Companions</string>
+    <string name="package_name">com.elitecompanions.app</string>
+    <string name="custom_url_scheme">com.elitecompanions.app</string>
+</resources>
