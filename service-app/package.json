@@ -1,7 +1,7 @@
 {
-  "name": "servicepro-app",
+  "name": "elite-companions-app",
   "version": "1.0.0",
-  "description": "Professional service booking platform",
+  "description": "High-profile independent companion booking platform",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,12 +10,12 @@
     "lint": "eslint ."
   },
   "keywords": [
-    "service",
+    "companion",
     "booking",
-    "hospitality",
-    "event-staff"
+    "entertainment",
+    "luxury-service"
   ],
-  "author": "ServicePro Team",
+  "author": "Elite Companions",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
